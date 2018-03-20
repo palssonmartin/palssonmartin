@@ -771,7 +771,7 @@
 			input[type="reset"].style3.down,
 			.button.style3.down,
 			button.style3.down {
-				background-image: url("images/arrow.svg");
+				background-image: url("images/dark-arrow.svg");
 			}
 
 /* Form */
